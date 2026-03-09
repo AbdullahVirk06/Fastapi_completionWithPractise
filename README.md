@@ -1,2 +1,2 @@
 # Fastapi_completionWithPractise
-today i completed my CURD in fastapi (9th march 2026)
+today i completed my CURD in fastapi (9th march 2026).
